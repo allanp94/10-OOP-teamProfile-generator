@@ -47,6 +47,7 @@ function promptTeamData() {
     })
     .then((data) => {
       console.log(teamInfo);
+      console.log(teamInfo.flat());
     })
     .catch((err) => console.log(err));
 }
