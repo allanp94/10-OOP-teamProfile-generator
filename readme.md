@@ -1,44 +1,43 @@
+# 10-OOP-teamProfile-generator
 
-  # 10-OOP-teamProfile-generator
+## Description
 
-  
+The project creates an html page based on the team information provided by the user. The information is entered through the command line with the help of the inquirer package from npm.
 
-  ## Description
+## Link to walkthrough video
 
-  The project creates an html page based on the team information provided by the user. The information is entered through the command line with the help of the inquirer package from npm.
+(https://drive.google.com/file/d/1SDebk6wiitOjq95Ro5mZ_1yKbUGSe0LT/view)
 
-  ---
+---
 
-  ## Table of Contents
+## Table of Contents
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Questions](#questions)
-  
-  ---
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
 
-  ## Installation
+---
 
-  clone the repository to your local machine; run npm install and then run the command node index.js
+## Installation
 
-  ---
+clone the repository to your local machine; run npm install and then run the command node index.js
 
-  ## Usage
+---
 
-  Creates a basic html webpage using the command line.
+## Usage
 
-  ---
+Creates a basic html webpage using the command line.
 
-  ## License
+---
 
-  
+## License
 
---- 
+---
 
 ## Contributing
 
-  * n/a
+- n/a
 
 ---
 
@@ -53,6 +52,5 @@ to test the classes of the project run npm test
 Github Name: allanp94
 (https://www.github.com/allanp94)
 
-Please contact me with any questions/opportunities at my email listed below. 
+Please contact me with any questions/opportunities at my email listed below.
 Email: allan.p94@gmail.com
-
